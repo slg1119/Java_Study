@@ -5,7 +5,7 @@
 -------
 
 1.	클래스와 메소드에 관해서 배웠다.
-  2.인스턴스와 객체의 차이에 대해서 배웠다. ([참고 링크](http://dbnsecu.tistory.com/8) , [참고 코드](https://github.com/slg1119/Study/tree/master/week2/Java)\)
+ 2.인스턴스와 객체의 차이에 대해서 배웠다. ([참고 링크](http://dbnsecu.tistory.com/8) , [참고 코드](https://github.com/slg1119/Study/tree/master/week2/Java)\)
 
 ### 과제
 
@@ -17,7 +17,7 @@
 
 ##### 조건
 
-1.	클래스의 이름은 *Delivery_food* 이다.
+1.클래스의 이름은 *Delivery_food* 이다.
 2.Delivery_food의 기본 값은 `이름 : 김철수, 주소 : 평택, 주문할 음식 : 치킨, 음식의 가격 : 10000원`
 3.주문을 받는 메소드의 이름은 *newOrder*이고, 넘겨주는 인자 값은 순서대로 *이름, 주소, 주문할 음식* 이다.
 4.음식의 가격은 치킨은 10000원, 짜장면은 8000원, 피자는 15000원 이고, 나머지의 음식의 값은 8000원 으로 한다.
